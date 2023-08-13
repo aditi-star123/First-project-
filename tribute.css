@@ -1,0 +1,16 @@
+tribute.css
+p{
+	color:plum;
+}
+
+a:visited{
+	color:seagreen;
+}
+a:active{
+	color:darkred;
+}
+.col-md-4{display:flex;
+	justify-content: center;
+	align-items: center;
+	/*to bring image to centre*/
+}
